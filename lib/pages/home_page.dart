@@ -43,7 +43,7 @@ void initState(){
 
           backgroundColor: Theme.of(context).colorScheme.background,
           appBar: AppBar(
-              title: const Text("P  L  A  Y  L  I  S  T")),
+              title: const Text("M Y   M U S I C")),
           drawer: const MyDrawer(),
           body: Consumer<PlaylistProvider>(
 

@@ -42,7 +42,7 @@ return formattedTime;
                             onPressed: () =>{Navigator.pop(context)},
                             icon: const Icon(Icons.arrow_back)),
                         //title
-                        const Text("P  L  A  Y  L  I  S  T"),
+                        const Text("M Y   M U S I C"),
                         //menu button
                         IconButton(
                             onPressed: () {},
