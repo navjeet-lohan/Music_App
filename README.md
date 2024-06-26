@@ -1,16 +1,7 @@
-# music_app
+<img src="https://github.com/navjeet-lohan/Music_App/assets/95700223/67cafd44-8f6e-451a-ac93-69257636748c" height="550">
+<img src="https://github.com/navjeet-lohan/Music_App/assets/95700223/7d3b4109-524d-4379-8078-0d9efd6e9587" height="550">
+<img src="https://github.com/navjeet-lohan/Music_App/assets/95700223/b5d324a3-b07b-46c3-b0bf-0bb59942847c" height="550">
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
